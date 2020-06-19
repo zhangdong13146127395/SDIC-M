@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,user-scalable=no">
+    <link rel="icon" href="<%= BASE_URL %>favicon.ico">
+    <title>国投 OA 移动端</title>
+  </head>
+  <body>
+    <noscript>
+      <strong>We're sorry but sdic-mobile doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
+    </noscript>
+    <div id="app"></div>
+    <!-- built files will be auto injected -->
+    <script>
+      // 获取参数信息
+      var globalCons = {}
+      try {
+        location.search.substr(1).split('And_And').forEach(function (item) {
+          var s = item.split('=')
+          globalCons[s[0]] = s[1]
+        })
+      } catch(e) {
+        throw new Error(JSON.stringify(location.search))
+      }
+    </script>
+  </body>
+</html>

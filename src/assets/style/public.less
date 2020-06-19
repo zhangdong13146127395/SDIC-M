@@ -1,0 +1,64 @@
+@import './var';
+
+body {
+  font-family: DINPro-Medium, DIN Alternate, "Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "微软雅黑", Arial, sans-serif;
+  background-color: @background-color;
+}
+* {
+  padding: 0;
+  margin: 0;
+}
+ul, ol {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
+img, a img {
+  border: none;
+  vertical-align: top;
+  width: 100%;
+}
+b, strong {
+  font-weight: normal;
+}
+i, em {
+  font-style: normal;
+}
+table {
+  border-collapse: collapse;
+}
+.clearfix:after {
+  display: block;
+  content: '';
+  clear: both;
+}
+.clearfix {
+  zoom: 1;
+}
+.fl {
+  float: left;
+}
+.fr {
+  float: right;
+}
+
+// 加载进度条
+#nprogress {
+  .bar {
+    background: @blue !important;
+  }
+  .peg {
+    box-shadow: 0 0 10px @blue, 0 0 5px @blue !important;
+  }
+}
+
+// 无边框
+.no-hairline:after {
+  border-width: 0 !important;
+}
+
+// 文字居中
+.text-center {
+  text-align: center;
+}

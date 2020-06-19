@@ -1,0 +1,163 @@
+{
+  "id": "1119033",
+  "name": "sdic-mobile",
+  "font_family": "iconfont",
+  "css_prefix_text": "iconfont-icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "33519",
+      "name": "home_fill",
+      "font_class": "homefill",
+      "unicode": "e6bb",
+      "unicode_decimal": 59067
+    },
+    {
+      "icon_id": "12018073",
+      "name": "电子屏",
+      "font_class": "dianziping",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "12018074",
+      "name": "车位",
+      "font_class": "chewei",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "12018075",
+      "name": "矿泉水",
+      "font_class": "kuangquanshui",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "12018076",
+      "name": "电话",
+      "font_class": "dianhua",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "12018077",
+      "name": "麦克",
+      "font_class": "maike",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "12018078",
+      "name": "点心",
+      "font_class": "dianxin",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "12018079",
+      "name": "条幅",
+      "font_class": "tiaofu",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "12018080",
+      "name": "茶水",
+      "font_class": "chashui",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "12018081",
+      "name": "绿植",
+      "font_class": "lvzhi",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "12018082",
+      "name": "桌签",
+      "font_class": "zhuoqian",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "12018083",
+      "name": "旋转门",
+      "font_class": "xuanzhuanmen",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "12018084",
+      "name": "鲜花",
+      "font_class": "xianhua",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "12018085",
+      "name": "投影",
+      "font_class": "touying",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "12018086",
+      "name": "咖啡",
+      "font_class": "kafei",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "12018087",
+      "name": "纸笔",
+      "font_class": "zhibi",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "12018088",
+      "name": "专岗",
+      "font_class": "zhuangang",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "12018089",
+      "name": "水牌",
+      "font_class": "shuipai",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "12018090",
+      "name": "果盘",
+      "font_class": "guopan",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "12018091",
+      "name": "礼仪",
+      "font_class": "liyi",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "12018092",
+      "name": "伸缩门",
+      "font_class": "shensuomen",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "12018093",
+      "name": "专梯",
+      "font_class": "zhuanti",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    }
+  ]
+}
